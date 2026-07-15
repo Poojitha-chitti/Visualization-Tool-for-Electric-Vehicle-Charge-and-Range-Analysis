@@ -66,7 +66,7 @@ This project demonstrates how Tableau can be used to convert raw Electric Vehicl
 https://github.com/Poojitha-chitti/Visualization-Tool-for-Electric-Vehicle-Charge-and-Range-Analysis
 
 ## Project Demonstration Video
-Add your Google Drive or YouTube video link here.
+https://drive.google.com/file/d/1mYjUgo-se0hcmEz284FtYHGkhFnxP-9C/view?usp=sharing
 
 ## Author
 **Poojitha Parasanamyna**
