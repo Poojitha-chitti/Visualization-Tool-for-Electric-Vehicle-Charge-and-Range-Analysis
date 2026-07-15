@@ -69,6 +69,6 @@ https://github.com/Poojitha-chitti/Visualization-Tool-for-Electric-Vehicle-Charg
 Add your Google Drive or YouTube video link here.
 
 ## Author
-**Poojitha**
+**Poojitha Parasanamyna**
 B.Tech (Computer Science and Engineering)
 Siddartha Institute of Science and Technology, Puttur.
