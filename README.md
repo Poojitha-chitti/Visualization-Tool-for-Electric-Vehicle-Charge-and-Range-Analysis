@@ -63,7 +63,7 @@ A Tableau Story is included to present the analysis step by step and highlight t
 This project demonstrates how Tableau can be used to convert raw Electric Vehicle data into interactive dashboards that support better analysis and decision-making.
 
 ## GitHub Repository
-
+https://github.com/Poojitha-chitti/Visualization-Tool-for-Electric-Vehicle-Charge-and-Range-Analysis
 
 ## Project Demonstration Video
 Add your Google Drive or YouTube video link here.
