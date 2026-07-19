@@ -58,8 +58,6 @@ Document/
 ├── Project Development Phase
 ├── Project Documentation
 └── Project Demonstration
-Dataset/
-SQL Files/
 Tableau Workbook/
 README.md
 
