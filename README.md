@@ -1,74 +1,97 @@
-# Visualization Tool for Electric Vehicle Charge and Range Analysis
+🚗 Visualization Tool for Electric Vehicle Charge and Range Analysis
 
-## Project Overview
-This project analyzes Electric Vehicle (EV) data using Tableau to create interactive dashboards and visualizations. The dashboard provides insights into EV brands, model trends, electric range, pricing, and vehicle distribution.
+📌 Project Overview
+The Visualization Tool for Electric Vehicle Charge and Range Analysis is a data visualization project developed using MySQL and Tableau. The project analyzes electric vehicle data to provide meaningful insights into EV performance, charging infrastructure, pricing, efficiency, range, and top speed through interactive dashboards and visualizations.
+This project helps users compare different electric vehicles and understand charging station distribution using easy-to-understand charts and maps.
 
-## Objective
-The objective of this project is to transform raw EV data into meaningful visualizations that help users understand trends, compare brands, and make data-driven decisions.
+🎯 Objectives
+Analyze electric vehicle datasets.
+Visualize EV performance and charging infrastructure.
+Compare EV brands based on range, efficiency, price, and top speed.
+Display charging stations across India.
+Develop interactive dashboards and stories using Tableau.
 
-## Dataset
-- **Source:** Kaggle
-- **Dataset:** Electric Vehicle Population Data
+🛠️ Technologies Used
+Database: MySQL
+Data Visualization: Tableau Desktop
+Query Language: SQL
+Operating System: Windows
+Dataset Source: Skill Wallet
 
-## Tools and Technologies
-- Tableau Desktop 2026.2
-- Microsoft Excel
-- MySQL
-- GitHub
+📂 Dataset
+The project uses four datasets:
+EV India
+Electric Vehicle Charging Station List
+Electric Car Data
+Cheapest Electric Cars Database
 
-## Features
-- Data Preparation and Cleaning
-- Interactive Dashboard
-- Tableau Story
-- Performance Testing
-- Data Filters
-- Calculated Fields
+📊 Visualizations Created
+Charging Stations by Region and Type in India
+EV Charging Stations Map of India
+Different EV Cars in India (Treemap)
+Top Speed for Different Brands
+Price Comparison of EV Cars in India
+Top 10 Most Efficient EV Brands
+Brands According to Body Style
+Brand Filtered by PowerTrain Type
+Number of Models by Each Brand
+Summary Card – Different EV Brands Globally
+Summary Card – Different EV Brands in India
 
-## Visualizations
-- Top 10 EV Brands
-- EVs by Model Year
-- EV Type Distribution
-- Top 10 Cities by EV Count
-- Top 10 Counties by EV Count
-- Average Electric Range by Brand
-- Base MSRP by Brand
-- Top 10 EV Models
+📈 Dashboard Features
+Interactive filters
+Geographic map visualization
+KPI summary cards
+Bar charts
+Treemap
+Dashboard
+Story
+Calculated fields
 
-## Dashboard
-The dashboard combines all visualizations into a single interactive interface with filters for:
-- Make (Brand)
-- Electric Vehicle Type
+📁 Project Structure
+Document/
+│
+├── Ideation Phase
+├── Requirement Analysis
+├── Project Design Phase
+├── Project Planning Phase
+├── Project Development Phase
+├── Project Documentation
+└── Project Demonstration
+Dataset/
+SQL Files/
+Tableau Workbook/
+README.md
 
-## Story
-A Tableau Story is included to present the analysis step by step and highlight the major insights.
+🚀 How to Run the Project
+1. Download the project files.
+2. Import the datasets into MySQL.
+3. Execute the required SQL queries.
+4. Connect Tableau Desktop to the MySQL database.
+5. Open the Tableau workbook.
+6. Refresh the data source.
+7. Explore the dashboard and story.
 
-## Project Structure
+📊 Project Outcomes
+Interactive EV analytics dashboard.
+Better understanding of EV specifications.
+Easy comparison of EV brands.
+Visualization of charging station locations.
+Data-driven insights for electric vehicle analysis.
 
-```text
-├── data/
-├── screenshots/
-├── documentation/
-├── video_demo/
-└── README.md
-```
+🔮 Future Scope
+Real-time EV charging station updates.
+Integration with live APIs.
+Machine Learning-based EV recommendations.
+Cloud deployment.
+Mobile dashboard support.
 
-## Results
-- Identified the top EV brands.
-- Analyzed EV growth across model years.
-- Compared Battery Electric Vehicles and Plug-in Hybrid Electric Vehicles.
-- Compared average electric range and vehicle prices by brand.
-- Identified the most popular EV models and regions.
+👩‍💻 Author
+Poojitha Parasanamyna
+B.Tech – Computer Science and Engineering
 
-## Conclusion
-This project demonstrates how Tableau can be used to convert raw Electric Vehicle data into interactive dashboards that support better analysis and decision-making.
+📜 License
+This project is developed for educational and academic purposes.
+---
 
-## GitHub Repository
-https://github.com/Poojitha-chitti/Visualization-Tool-for-Electric-Vehicle-Charge-and-Range-Analysis
-
-## Project Demonstration Video
-https://drive.google.com/file/d/1mYjUgo-se0hcmEz284FtYHGkhFnxP-9C/view?usp=sharing
-
-## Author
-**Poojitha Parasanamyna**
-B.Tech (Computer Science and Engineering)
-Siddartha Institute of Science and Technology, Puttur.
+This README is clean, professional, and suitable for your GitHub reposito
